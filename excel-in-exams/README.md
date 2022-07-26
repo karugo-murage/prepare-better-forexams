@@ -42,3 +42,19 @@ https://karugo-murage.github.io/Exel-in--your-Exams/
 - clone the repo to local machine
 
 - run it on VScode , on live server
+
+### Future Improvements
+
+- Add user navigation to course
+
+- Incorporate Reactjs
+
+- Incorporate Ruby on Rails
+
+- Fine tune Responsivess
+
+
+## Known Bugs
+- The site is not as responsive enough for some devices.
+- The exam image loadtime is considerable big.
+- The API is not responding once hosted in github.
