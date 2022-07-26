@@ -4,9 +4,23 @@
 }
 .examined-units{
     background-color: silver;
-    width: 15%;
+    width: 17%;
     font-size: 1.2rem;
     border: 1px solid grey;
     padding: .5rem;
-    margin-top: 1rem;
+    margin: 0rem;
+    font-weight: 300;
+}
+.navbar{
+    margin: 1rem;
+    display: flex;
+    justify-content: space-around;
+    height: 10vh;
+}
+.success{
+    margin-left: 2rem;
+    margin-right: 2rem;
+    width: 30%;
+    font-style: oblique;
+    font-weight:400 ;
 }
