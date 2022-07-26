@@ -18,3 +18,27 @@ https://karugo-murage.github.io/Exel-in--your-Exams/
 ## Screenshot
 
 <img src="./Assets/images/SUCCESS.png" width="900px" height="440px">  
+
+## Features
+
+-Well Designed Interface(UI)
+-intensive use of Vanilla css for design
+- Javascript
+- HTML5
+- API intergration
+- Switch to multiple exams via buttons
+- Responsive to variety of devices like mobile,tablet and PC
+
+### Requirements
+
+- chrome browser/any other browser
+
+- any type of computer(phone of laptop)
+
+- Internet connection
+
+- Navigate to the git repository
+
+- clone the repo to local machine
+
+- run it on VScode , on live server
