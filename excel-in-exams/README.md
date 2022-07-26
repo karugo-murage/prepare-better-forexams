@@ -58,3 +58,19 @@ https://karugo-murage.github.io/Exel-in--your-Exams/
 - The site is not as responsive enough for some devices.
 - The exam image loadtime is considerable big.
 - The API is not responding once hosted in github.
+
+## Technologies Used
+- HTML5
+- CSS
+- JavaScript
+- Markdown
+
+## Support and contact details
+
+If you have any questions or contributions, please reach me at.
+
+- gmail- giddykarugo@gmail.com
+
+- contact -0793003234
+
+- slack- Karugo-Murage
