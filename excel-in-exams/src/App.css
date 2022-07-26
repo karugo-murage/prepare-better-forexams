@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    font-family: 'Ubuntu';
+}
+.examined-units{
+    background-color: silver;
+    width: 15%;
+    font-size: 1.2rem;
+    border: 1px solid grey;
+    padding: .5rem;
+    margin-top: 1rem;
+}
