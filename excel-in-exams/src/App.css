@@ -46,3 +46,16 @@
     padding: 0.5rem 1rem;
 
 }
+.post{
+    margin: 1.5rem 3rem 1rem 3rem;
+    width:50%;
+    border: 1px solid red;
+}
+.post-tag{
+    padding:0.5rem;
+    font-weight:420;
+}
+.posts-section{
+    padding: 0.5rem;
+    font-weight: 400;
+}
