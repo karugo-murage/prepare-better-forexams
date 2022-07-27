@@ -24,3 +24,17 @@
     font-style: oblique;
     font-weight:400 ;
 }
+.theme{
+    width: 50%;
+    border: 1px solid red;
+    margin: 4rem;
+}
+.motto{
+    font-weight: 420;
+    font-size: xx-large;
+    margin-bottom: 1rem;
+}
+.mantra{
+    font-weight: 450;
+    font-size: xx-large;
+}
