@@ -4,6 +4,7 @@ import Navbar from './Components/Navbar'
 import Quotes from './Components/Quotes'
 import Theme from './Components/Theme'
 import Experience from './Components/Experience'
+import Comment from './Components/Comment'
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Theme/>
       <Quotes/>
       <Experience/>
+      <Comment/>
     </div>
   );
 }
