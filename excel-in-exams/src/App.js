@@ -3,7 +3,7 @@ import './App.css';
 import Navbar from './Components/Navbar'
 import Quotes from './Components/Quotes'
 import Theme from './Components/Theme'
-import Comment from './Components/Comment'
+import Experience from './Components/Experience'
 
 function App() {
   return (
@@ -11,6 +11,7 @@ function App() {
       <Navbar/>
       <Theme/>
       <Quotes/>
+      <Experience/>
     </div>
   );
 }
