@@ -61,5 +61,16 @@
 .comments{
     margin: 1.5rem 3rem 1rem 3rem;
     padding: 1rem 0.5rem;
-
+}
+.comment-box{
+    padding: 0.5rem 2rem;
+    font-size: larger;
+    font-weight: 400;
+    box-shadow: 3px 3px silver;
+    color: black;
+}
+.comment-post{
+    padding: 0.5rem 1rem;
+    font-size: larger;
+    margin-left: 2rem;
 }
