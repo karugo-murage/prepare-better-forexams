@@ -5,6 +5,8 @@ import Quotes from './Components/Quotes'
 import Theme from './Components/Theme'
 import Experience from './Components/Experience'
 import Comment from './Components/Comment'
+import Footer from './Components/Footer'
+import Exam from './Components/Exam'
 
 function App() {
   return (
@@ -14,6 +16,8 @@ function App() {
       <Quotes/>
       <Experience/>
       <Comment/>
+      <Footer/>
+      <Exam/>
     </div>
   );
 }
