@@ -2,6 +2,8 @@ import React from 'react'
 
 export default function Exam() {
   return (
-    <div>Exam</div>
+    <div>
+        <img src={require ('../Images/ai.jpg')}default height={500} width={500} />
+    </div>
   )
 }
