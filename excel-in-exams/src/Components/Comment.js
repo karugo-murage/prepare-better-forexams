@@ -13,11 +13,10 @@ export default function Comment() {
 
   return (
     <>
-    <p>{data}</p>
     <div className='posts-section' >
       {
         print?
-        <h1>{data}</h1>
+        <p>{data}</p>
         :null
 
       }
