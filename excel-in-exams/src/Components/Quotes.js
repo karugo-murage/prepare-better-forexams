@@ -1,26 +1,31 @@
-import React from 'react'
+import React, {useEffect , useState}from 'react'
 
 export default function Quotes() {
-  let quote_data = null
-  let quote_author= null
+
+const [quote_data, setQuoteData] = useState({ });
+
   function Api(){
     let quote = fetch('http://quotes.stormconsultancy.co.uk/random.json');
    quote.then(response=>response.json()).then(data => {
-   console.log(data.author); 
-   quote_data = `${data.quote}`
-   quote_author= `${data.author}`
+    setQuoteData(data)
+   console.log(data); 
   })
  .catch(err => console.error(err));
  }
 
+ useEffect(() => { 
+  Api();
+ });
+
+ 
   return (
     <div className='quote-section'>
        <p>Get yourself motivated </p>
        <hr></hr>
        <hr></hr>
-      <p>{Api}</p>
-      <p>{quote_author}</p>
-       
+
+      <p>{quote_data.quote}</p>
+      <p>{quote_data.author}</p>
     </div>
   )
 }
