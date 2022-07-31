@@ -182,4 +182,16 @@ li{
 .input_contact{
     padding: 0.5rem;
     margin-top: 1.5rem;
+    box-shadow: 2px 3px silver;
+}
+.input_send{
+    padding: 0.4rem;
+    margin-top: 1rem;
+    background-color: silver;
+    border: 2px solid grey;
+    box-shadow: 3px 4px silver;
+    
+}
+.free{
+    font-size: larger;
 }
