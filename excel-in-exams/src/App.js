@@ -17,8 +17,8 @@ function App() {
     <div className="App">
       <Router>
         <Navbar/>
-        <Routes>
-          <Route  path = "/"
+        <Routes >
+          <Route className=" routes_nav" path = "/"
             element= { <Body/>}>
            
           </Route>
