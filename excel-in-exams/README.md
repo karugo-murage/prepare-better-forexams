@@ -12,7 +12,7 @@ Thus allowing for an iterative process that uses user feedback to enable other u
 
 The web application also provides motivational quotes to inspire the users to keep pushing on in their programming journey.
 
-https://karugo-murage.github.io/Exel-in--your-Exams/
+https://brilliant-cobbler-214900.netlify.app/
 
  
 ## Screenshot
