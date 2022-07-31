@@ -18,7 +18,7 @@ function App() {
       <Router>
         <Navbar/>
         <Routes >
-          <Route className=" routes_nav" path = "/"
+          <Route path = "/"
             element= { <Body/>}>
            
           </Route>

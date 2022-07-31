@@ -7,15 +7,17 @@ import { NavLink } from 'react-router-dom'
      <div>
         <div className='navbar'>
             <h1 className='success'>SUCCESS IN YOUR EXAMS .</h1>
-            <NavLink to ="home">
+            <div className='navlink-bar'>
+            <NavLink className="routes_nav" to ="home">
               Home
             </NavLink>
-            <NavLink to ="about">
+            <NavLink className="routes_nav"to ="about">
               About
             </NavLink>
-            <NavLink to ="contact">
+            <NavLink className="routes_nav" to ="contact">
               Contact
             </NavLink>
+            </div>
     
         </div>
         
