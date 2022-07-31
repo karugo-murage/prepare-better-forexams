@@ -17,15 +17,16 @@ https://karugo-murage.github.io/Exel-in--your-Exams/
  
 ## Screenshot
 
-<img src="./Assets/images/SUCCESS.png" width="900px" height="440px">  
+<img src="./src/Images/Home.png" width="900px" height="440px">  
+<img src="./src/Images/About.png" width="900px" height="440px">  
+<img src="./src/Images/Contact.png" width="900px" height="440px">  
 
 ## Features
 
--Well Designed Interface(UI)
--intensive use of Vanilla css for design
-- Javascript
-- HTML5
+- Well Designed Interface(UI)
+- Intensive use of React Library for design
 - API intergration
+- Route to various pages
 - Switch to multiple exams via buttons
 - Responsive to variety of devices like mobile,tablet and PC
 
