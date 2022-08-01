@@ -48,8 +48,6 @@ https://brilliant-cobbler-214900.netlify.app/
 
 - Add user navigation to course
 
-- Incorporate Reactjs
-
 - Incorporate Ruby on Rails
 
 - Fine tune Responsivess
@@ -58,12 +56,12 @@ https://brilliant-cobbler-214900.netlify.app/
 ## Known Bugs
 - The site is not as responsive enough for some devices.
 - The exam image loadtime is considerable big.
-- The API is not responding once hosted in github.
+- The API is not responding once hosted in netlify
 
 ## Technologies Used
-- HTML5
+- HTML 5
+- React.js
 - CSS
-- JavaScript
 - Markdown
 
 ## Support and contact details
